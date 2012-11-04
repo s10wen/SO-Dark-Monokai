@@ -2,6 +2,9 @@ SO-Dark-Monokai
 https://github.com/simonowendesign/SO-Dark-Monokai
 Taken from the below and tweaked by Simon Owen (@simonowendesign)
 
+Preview:
+<img src="http://farm8.staticflickr.com/7246/8153558207_b148714738_b.jpg" />
+
 IR_Dark_Monokai
 Designed and developed by Andres Pagella (@mapagella)
 http://www.andrespagella.com/customising-chrome-devtools
