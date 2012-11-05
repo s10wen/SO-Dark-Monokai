@@ -408,6 +408,11 @@
 	color: rgb(253, 150, 63) !important;
 }
 
+#-webkit-web-inspector .event-bars .event-bar .header .title {
+	text-shadow: none !important;
+	color: #ccc !important;
+}
+
 /**********************************************/
 /* JavaScript
 /**********************************************/
